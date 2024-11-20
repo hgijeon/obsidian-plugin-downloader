@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-plugin-downloader",
+	"name": "Obsidian Plugin Downloader",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Download plugins based on their manifest URL and comunity plugins",
+	"author": "Henry Jian",
+	"fundingUrl": "https://buymeacoffee.com/hgijeon",
+	"isDesktopOnly": false
+}
